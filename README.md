@@ -2,7 +2,7 @@
 <h3 align="center">Especializado en Data Engineer from Colombia</h3>
 
 
-- 🌱 Como Data Scientist y economista, combino ambas formaciones con habilidades técnicas avanzadas para analizar datos de manera profunda y efectiva. Mi experiencia me permite comprender fácilmente patrones y tendencias, transformando datos en información clave para la toma de decisiones estratégicas.
+🌱 Como Data Scientist y economista, combino ambas formaciones con habilidades técnicas avanzadas para analizar datos de manera profunda y efectiva. Mi experiencia me permite comprender fácilmente patrones y tendencias, transformando datos en información clave para la toma de decisiones estratégicas.
 
 Me especializo en la limpieza, el tratamiento y el análisis de datos, utilizando herramientas como Python y MySQL para automatizar procesos, optimizar bases de datos y desarrollar soluciones innovadoras. Mi enfoque está orientado a generar valor mediante la implementación de procesos eficientes que impacten positivamente en los resultados empresariales.
 
