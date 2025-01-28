@@ -4,9 +4,7 @@
 
 🌱 Como Data Scientist y economista, combino ambas formaciones con habilidades técnicas avanzadas para analizar datos de manera profunda y efectiva. Mi experiencia me permite comprender fácilmente patrones y tendencias, transformando datos en información clave para la toma de decisiones estratégicas.
 
-Me especializo en la limpieza, el tratamiento y el análisis de datos, utilizando herramientas como Python y MySQL para automatizar procesos, optimizar bases de datos y desarrollar soluciones innovadoras. Mi enfoque está orientado a generar valor mediante la implementación de procesos eficientes que impacten positivamente en los resultados empresariales.
 
-Soy una persona responsable, proactiva y comprometida con la excelencia. Cuando me propongo un objetivo, lo llevo a cabo con eficiencia y eficacia, garantizando resultados de alta calidad. Mi objetivo profesional es aplicar mis conocimientos en ciencia de datos para resolver problemas complejos y aportar valor estratégico a las organizaciones, siempre adaptándome a nuevas tecnologías y desafíos.
 
 Competencias clave:
 
