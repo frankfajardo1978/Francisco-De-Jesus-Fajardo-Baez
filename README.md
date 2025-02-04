@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Francisco Fajardo</h1>
-<h3 align="center">Especializado en Data Engineer </h3>
+<h3 align="center">Especializado en Data Analyst </h3>
 
 
 🌱 Como Data Scientist y economista, combino ambas formaciones con habilidades técnicas avanzadas para analizar datos de manera profunda y efectiva. Mi experiencia me permite comprender fácilmente patrones y tendencias, transformando datos en información clave para la toma de decisiones estratégicas.
